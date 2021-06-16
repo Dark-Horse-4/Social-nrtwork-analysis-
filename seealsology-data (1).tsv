@@ -1,0 +1,978 @@
+source	target	depth
+medical care	healthcare system	1
+medical care	health professionals	1
+medical care	health equity	1
+medical care	health policy	1
+medical care	tobacco politics	1
+medical care	universal health care	1
+vaccines	biologics control act	1
+vaccines	coalition for epidemic preparedness innovations	1
+vaccines	flying syringe	1
+vaccines	immunization registry	1
+vaccines	immunotherapy	1
+vaccines	non-specific effect of vaccines	1
+vaccines	opv aids hypothesis	1
+vaccines	preventive healthcare	1
+vaccines	reverse vaccinology	1
+vaccines	ta-cd	1
+vaccines	timeline of vaccines	1
+vaccines	virosome	1
+vaccines	vaccine adverse event	1
+vaccines	vaccine cooler	1
+vaccines	vaccine failure	1
+vaccines	vaccine hesitancy	1
+vaccines	vaccinov	1
+vaccines	viral vector	1
+vaccines	virus-like particle	1
+covid19	coronavirus diseases	1
+covid19	disease x	1
+disease x	coalition for epidemic preparedness innovations	2
+disease x	global research collaboration for infectious disease preparedness	2
+disease x	synthetic virology	2
+disease x	bioterrorism	2
+disease x	planets beyond neptune	2
+coronavirus diseases	coronaviridae	2
+coronavirus diseases	alphacoronavirus	2
+coronavirus diseases	betacoronavirus	2
+coronavirus diseases	gammacoronavirus	2
+coronavirus diseases	deltacoronavirus	2
+viral vector	viral transformation	2
+vaccinov	population history of indigenous peoples of the americas	2
+deltacoronavirus	rna virus	3
+deltacoronavirus	sense (molecular biology)	3
+deltacoronavirus	veterinary virology	3
+gammacoronavirus	animal virology	3
+gammacoronavirus	sense (molecular biology)	3
+gammacoronavirus	rna virus	3
+betacoronavirus	animal virology	3
+alphacoronavirus	betacoronavirus	3
+alphacoronavirus	coronavirus	3
+alphacoronavirus	rna virus	3
+viral transformation	transduction (genetics)	3
+viral transformation	transfection	3
+viral transformation	transgenesis	3
+population history of indigenous peoples of the americas	amazonas before the inca empire	3
+population history of indigenous peoples of the americas	classification of indigenous peoples of the americas	3
+population history of indigenous peoples of the americas	conquest of the desert	3
+population history of indigenous peoples of the americas	demographic history of the united states	3
+population history of indigenous peoples of the americas	first nations	3
+population history of indigenous peoples of the americas	genocide of indigenous peoples	3
+population history of indigenous peoples of the americas	genocides in history	3
+population history of indigenous peoples of the americas	guatemalan genocide	3
+population history of indigenous peoples of the americas	handbook of south american indians	3
+population history of indigenous peoples of the americas	population of canada	3
+population history of indigenous peoples of the americas	population of native california	3
+population history of indigenous peoples of the americas	selknam genocide	3
+population history of indigenous peoples of the americas	smallpox	3
+population history of indigenous peoples of the americas	trail of tears	3
+population history of indigenous peoples of the americas	uncontacted peoples	3
+planets beyond neptune	fictional planets of the solar system	3
+planets beyond neptune	large synoptic survey telescope	3
+planets beyond neptune	pan-starrs	3
+planets beyond neptune	wide-field infrared survey explorer	3
+bioterrorism	biodefence	3
+bioterrorism	biological weapons convention	3
+bioterrorism	biorisk	3
+bioterrorism	biosecurity	3
+bioterrorism	project bacchus	3
+bioterrorism	select agent	3
+bioterrorism	national bio and agro-defense facility	3
+synthetic virology	bioterrorism	3
+synthetic virology	disease x	3
+coalition for epidemic preparedness innovations	centers for disease control and prevention	3
+coalition for epidemic preparedness innovations	european centre for disease prevention and control	3
+coalition for epidemic preparedness innovations	covid-19 vaccine	3
+vaccine failure	vaccination policy	2
+vaccine failure	antitoxin	2
+vaccine failure	dna vaccination	2
+vaccine failure	feline vaccination	2
+vaccine failure	h5n1 clinical trials	2
+vaccine failure	immunization during pregnancy	2
+vaccine failure	misinformation related to vaccination	2
+vaccine failure	vaccination-autism controversy	2
+vaccine failure	vaccination and religion	2
+vaccine failure	vaccination of dogs	2
+vaccine failure	vaccine trial	2
+vaccine failure	world immunization week	2
+vaccine failure	coronavirus disease 2019	2
+vaccine hesitancy	chemophobia	2
+vaccine hesitancy	measles resurgence in the united states	2
+vaccine hesitancy	misinformation related to vaccination	2
+vaccine hesitancy	therapeutic nihilism	2
+vaccine hesitancy	vaccine shedding	2
+timeline of vaccines	timeline of global health	2
+timeline of vaccines	history of smallpox	2
+vaccine adverse event	vaccine hesitancy	2
+chemophobia	appeal to nature	3
+chemophobia	chemical free	3
+chemophobia	hazardous chemicals	3
+chemophobia	persistent organic pollutants	3
+chemophobia	organic food	3
+chemophobia	natural food	3
+chemophobia	dihydrogen monoxide parody	3
+chemophobia	genetically modified food controversies	3
+chemophobia	multiple chemical sensitivity	3
+chemophobia	phobia	3
+chemophobia	vaccine controversies	3
+chemophobia	let them eat precaution	3
+measles resurgence in the united states	2019 samoa measles outbreak	3
+measles resurgence in the united states	2019 philippines measles outbreak	3
+timeline of global health	timeline of vaccines	3
+timeline of global health	timeline of malaria	3
+timeline of global health	timeline of hiv/aids	3
+timeline of global health	timeline of cholera	3
+timeline of global health	timeline of influenza	3
+timeline of global health	timeline of alzheimer's disease	3
+timeline of global health	timeline of stroke	3
+timeline of global health	timeline of cardiovascular disease	3
+timeline of global health	timeline of deworming	3
+timeline of global health	timeline of the 2019-20 coronavirus pandemic	3
+timeline of global health	timeline of healthcare in india	3
+timeline of global health	timeline of healthcare in china	3
+timeline of global health	timeline of healthcare in japan	3
+timeline of global health	timeline of healthcare in cuba	3
+timeline of global health	timeline of healthcare in germany	3
+timeline of global health	timeline of healthcare in egypt	3
+timeline of global health	timeline of healthcare in nigeria	3
+timeline of global health	timeline of healthcare in kenya	3
+timeline of global health	priority-setting in global health	3
+timeline of global health	timeline of psychiatry	3
+coronavirus disease 2019	coronavirus diseases	3
+coronavirus disease 2019	disease x	3
+world immunization week	health promotion	3
+world immunization week	world health day	3
+world immunization week	european immunization week	3
+world immunization week	vaccination week in the americas	3
+world immunization week	every child by two	3
+world immunization week	universal immunization programme	3
+vaccination of dogs	atcvet code qi07	3
+vaccination of dogs	atcvet code	3
+vaccination of dogs	da2ppc vaccine	3
+vaccination of dogs	feline vaccination	3
+dna vaccination	vector dna	3
+dna vaccination	hiv vaccine	3
+dna vaccination	gene therapy	3
+dna vaccination	rna vaccine	3
+antitoxin	toxin-antitoxin system	3
+antitoxin	vaccination	3
+antitoxin	jim (horse)	3
+antitoxin	antiserum	3
+antitoxin	invention	3
+ta-cd	ta-nic	2
+vaccination policy	world immunization week	3
+vaccination policy	vaccination requirements for international travel	3
+opv aids hypothesis	aids origins opposed to scientific consensus	2
+opv aids hypothesis	aids origin	2
+opv aids hypothesis	sv40	2
+opv aids hypothesis	zoonosis	2
+preventive healthcare	american board of preventive medicine	2
+preventive healthcare	american journal of preventive medicine	2
+preventive healthcare	american osteopathic board of preventive medicine	2
+preventive healthcare	chemoprevention	2
+preventive healthcare	human genetic enhancement	2
+preventive healthcare	epigenetics	2
+preventive healthcare	mental disorder	2
+preventive healthcare	public health	2
+preventive healthcare	pre-exposure prophylaxis	2
+preventive healthcare	preventive medicine (journal)	2
+preventive healthcare	primary health care	2
+preventive healthcare	treatment as prevention	2
+immunotherapy	biological response modifier	2
+immunotherapy	sepsivac	2
+immunotherapy	checkpoint inhibitor	2
+immunotherapy	interleukin-2 immunotherapy	2
+immunotherapy	immunostimulant	2
+immunotherapy	microtransplantation	2
+immunotherapy	photoimmunotherapy	2
+pre-exposure prophylaxis	chemoprevention	3
+pre-exposure prophylaxis	post-exposure prophylaxis	3
+pre-exposure prophylaxis	national aids trust v nhs service commissioning board	3
+primary health care	emergency healthcare	3
+primary health care	global health	3
+primary health care	health policy	3
+primary health care	health promotion	3
+primary health care	healthy city	3
+primary health care	alliance for healthy cities	3
+primary health care	millennium development goals	3
+primary health care	primary care ethics	3
+primary health care	primary health care and resource centre	3
+primary health care	primary health organisation	3
+primary health care	primary health care (magazine)	3
+primary health care	public health	3
+immunostimulant	antigen	3
+immunostimulant	co-stimulation	3
+immunostimulant	immunogenicity	3
+immunostimulant	immunologic adjuvant	3
+immunostimulant	immunomodulator	3
+immunostimulant	immunotherapy	3
+immunostimulant	deoxycholic acid	3
+immunostimulant	imiquimod	3
+immunostimulant	resiquimod	3
+immunostimulant	toll-like receptor 7	3
+photoimmunotherapy	combinatorial ablation and immunotherapy	3
+photoimmunotherapy	cryoimmunotherapy	3
+microtransplantation	huisheng ai	3
+microtransplantation	guo mei	3
+microtransplantation	307th hospital of chinese people’s liberation army	3
+checkpoint inhibitor	cancer immunotherapy	3
+checkpoint inhibitor	adoptive cell transfer	3
+checkpoint inhibitor	chimeric antigen receptor	3
+human genetic enhancement	crossbreed	3
+human genetic enhancement	directed evolution (transhumanism)	3
+human genetic enhancement	designer baby	3
+human genetic enhancement	epigenetics	3
+human genetic enhancement	genetic screening	3
+human genetic enhancement	addiction	3
+human genetic enhancement	procreative beneficence	3
+human genetic enhancement	new eugenics	3
+human genetic enhancement	life extension	3
+biological response modifier	immunotherapy	3
+mental disorder	mental illness portrayed in media	3
+mental disorder	mental disorders in film	3
+mental disorder	mental illness in fiction	3
+mental disorder	mental illness in american prisons	3
+mental disorder	parity of esteem	3
+mental disorder	psychological evaluation	3
+public health	european public health association	3
+public health	history of water supply and sanitation	3
+epigenetics	baldwin effect	3
+epigenetics	behavioral epigenetics	3
+epigenetics	biological effects of radiation on the epigenome	3
+epigenetics	computational epigenetics	3
+epigenetics	contribution of epigenetic modifications to evolution	3
+epigenetics	epigenesis (biology)	3
+epigenetics	epigenetics in forensic science	3
+epigenetics	epigenetic therapy	3
+epigenetics	epigenetics of neurodegenerative diseases	3
+epigenetics	genetics	3
+epigenetics	lamarckism	3
+epigenetics	nutriepigenomics	3
+epigenetics	position-effect variegation	3
+epigenetics	preformationism	3
+epigenetics	somatic epitype	3
+epigenetics	synthetic genetic array	3
+epigenetics	transcriptional memory	3
+epigenetics	transgenerational epigenetic inheritance	3
+chemoprevention	prophylaxis	3
+chemoprevention	primary prevention	3
+chemoprevention	aspirin	3
+chemoprevention	statin	3
+chemoprevention	coronary artery disease	3
+american osteopathic board of preventive medicine	american board of preventive medicine	3
+american osteopathic board of preventive medicine	american osteopathic college of occupational & preventive medicine	3
+american osteopathic board of preventive medicine	american osteopathic association bureau of osteopathic specialists	3
+american board of preventive medicine	american osteopathic board of preventive medicine	3
+sv40	mason-pfizer monkey virus packaging signal	3
+sv40	sv40 cancer foundation	3
+aids origin	timeline of hiv/aids	3
+immunization registry	vaccination schedule	2
+aids origins opposed to scientific consensus	denialism	3
+aids origins opposed to scientific consensus	duesberg hypothesis	3
+aids origins opposed to scientific consensus	history of hiv/aids	3
+aids origins opposed to scientific consensus	hiv/aids denialism	3
+aids origins opposed to scientific consensus	hiv/aids denialism in south africa	3
+aids origins opposed to scientific consensus	operation infektion	3
+aids origins opposed to scientific consensus	oral polio vaccine aids hypothesis	3
+aids origins opposed to scientific consensus	sv40	3
+aids origins opposed to scientific consensus	zoonosis	3
+covid-19 vaccine	wp:medmos	3
+covid-19 vaccine	2009 swine flu pandemic vaccine	3
+covid-19 vaccine	covid-19 drug development	3
+covid-19 vaccine	covid-19 drug repurposing research	3
+universal health care	global health	2
+universal health care	healthcare reform debate in the united states	2
+universal health care	health insurance cooperative	2
+universal health care	national health insurance	2
+universal health care	primary healthcare	2
+universal health care	public health	2
+universal health care	publicly funded health care	2
+universal health care	right to health	2
+universal health care	single-payer healthcare	2
+universal health care	socialized medicine	2
+universal health care	two-tier healthcare	2
+universal health care	universal health coverage day	2
+european centre for disease prevention and control	european programme for intervention epidemiology training	3
+european centre for disease prevention and control	world health organization	3
+european centre for disease prevention and control	communicable diseases	3
+european centre for disease prevention and control	pandemic	3
+european centre for disease prevention and control	public health	3
+european centre for disease prevention and control	health threat unit (european commission)	3
+centers for disease control and prevention	consumer product safety commission	3
+centers for disease control and prevention	gun violence in the united states	3
+centers for disease control and prevention	haddon matrix	3
+centers for disease control and prevention	home safety council	3
+centers for disease control and prevention	national highway traffic safety administration	3
+centers for disease control and prevention	national institute for occupational safety and health	3
+vaccination schedule	vaccination policy	3
+vaccination schedule	influenza vaccine	3
+vaccination schedule	h5n1 clinical trials	3
+vaccination schedule	2009 flu pandemic vaccine	3
+tobacco politics	nicotine marketing	2
+tobacco politics	a frank statement	2
+tobacco politics	cigarette filter	2
+tobacco politics	container-deposit legislation	2
+tobacco politics	operation berkshire	2
+tobacco politics	tobacco master settlement agreement	2
+tobacco politics	tobacco msa (alabama)	2
+tobacco politics	tobacco msa (hawaii)	2
+tobacco politics	tobacco msa (new york)	2
+tobacco politics	merchants of doubt	2
+tobacco politics	merchants of doubt (film)	2
+two-tier healthcare	health in trinidad and tobago	3
+two-tier healthcare	canadian and american health care systems compared	3
+two-tier healthcare	health care compared	3
+two-tier healthcare	universal health care	3
+socialized medicine	appeal to fear	3
+socialized medicine	health care compared	3
+socialized medicine	publicly funded health care	3
+socialized medicine	social medicine	3
+socialized medicine	socialization (economics)	3
+socialized medicine	universal health care	3
+single-payer healthcare	all-payer rate setting	3
+single-payer healthcare	health care reform debate in the united states	3
+single-payer healthcare	health system	3
+single-payer healthcare	national health insurance	3
+single-payer healthcare	public health insurance option	3
+single-payer healthcare	medical deserts in the united states	3
+right to health	health and human rights (journal)	3
+right to health	primary health care	3
+right to health	universal health care	3
+merchants of doubt	climate change controversy	3
+merchants of doubt	climate change policy of the united states	3
+merchants of doubt	fear, uncertainty and doubt	3
+merchants of doubt	greenhouse mafia	3
+merchants of doubt	health effects of tobacco	3
+merchants of doubt	scientific opinion on climate change	3
+merchants of doubt	manufactured controversy	3
+merchants of doubt	media coverage of climate change	3
+merchants of doubt	scientific consensus	3
+merchants of doubt	tobacco control movement	3
+merchants of doubt	tobacco politics	3
+merchants of doubt	triumph of doubt	3
+merchants of doubt	david michaels (epidemiologist)	3
+merchants of doubt	climate change denial: heads in the sand	3
+merchants of doubt	doubt is their product: how industry's assault on science threatens your health	3
+operation berkshire	project scum	3
+operation berkshire	tobacco master settlement agreement	3
+operation berkshire	the insider (film)	3
+operation berkshire	thetruth.com	3
+operation berkshire	propaganda	3
+tobacco master settlement agreement	operation berkshire	3
+tobacco master settlement agreement	project scum	3
+tobacco master settlement agreement	tobacco settlement financing corporation	3
+tobacco master settlement agreement	thetruth.com	3
+tobacco master settlement agreement	truth initiative	3
+tobacco master settlement agreement	injustice	3
+tobacco master settlement agreement	howard engle	3
+container-deposit legislation	reverse vending machine	3
+container-deposit legislation	waste hierarchy	3
+cigarette filter	cigarette	3
+cigarette filter	cigarette holder	3
+cigarette filter	nicotine marketing	3
+cigarette filter	tobacco smoking	3
+a frank statement	tobacco industry	3
+a frank statement	tobacco advertising	3
+a frank statement	social engineering (political science)	3
+publicly funded health care	health care compared	3
+publicly funded health care	national health insurance	3
+publicly funded health care	public opinion on health care reform in the united states	3
+publicly funded health care	single-payer health care	3
+publicly funded health care	socialized medicine	3
+publicly funded health care	social insurance	3
+publicly funded health care	universal health care	3
+publicly funded health care	national health service	3
+publicly funded health care	united kingdom	3
+nicotine marketing	history of nicotine marketing	3
+nicotine marketing	plain tobacco packaging	3
+nicotine marketing	cigarette packets in australia	3
+nicotine marketing	tobacco marketing and african americans	3
+nicotine marketing	tobacco packaging warning messages	3
+nicotine marketing	torches of freedom	3
+nicotine marketing	smoking ban	3
+nicotine marketing	who framework convention on tobacco control	3
+nicotine marketing	philip morris v. uruguay	3
+nicotine marketing	circuit de spa-francorchamps	3
+nicotine marketing	jeff wigand	3
+nicotine marketing	advertising to children	3
+nicotine marketing	tobacco usage in sport	3
+national health insurance	health care compared	3
+national health insurance	health care politics	3
+national health insurance	publicly funded health care	3
+national health insurance	single-payer health care	3
+national health insurance	universal health care	3
+health insurance cooperative	housing cooperative	3
+primary healthcare	emergency healthcare	3
+primary healthcare	global health	3
+primary healthcare	health policy	3
+primary healthcare	health promotion	3
+primary healthcare	healthy city	3
+primary healthcare	alliance for healthy cities	3
+primary healthcare	millennium development goals	3
+primary healthcare	primary care ethics	3
+primary healthcare	primary health care and resource centre	3
+primary healthcare	primary health organisation	3
+primary healthcare	primary health care (magazine)	3
+primary healthcare	public health	3
+healthcare reform debate in the united states	health care compared	3
+healthcare reform debate in the united states	health policy	3
+healthcare reform debate in the united states	health economics	3
+healthcare reform debate in the united states	health insurance cooperative	3
+healthcare reform debate in the united states	history of health care reform in the united states	3
+healthcare reform debate in the united states	public opinion on health care reform in the united states	3
+global health	global mental health	3
+global health	global strategy for women's and children's health	3
+global health	health system	3
+global health	pandemic prevention	3
+global health	planetary health	3
+global health	public health	3
+global health	social determinants of health	3
+global health	universal health care	3
+global health	migrant health	3
+global health	child health and nutrition in africa	3
+global health	cab direct (database)	3
+health policy	disease mongering	2
+health policy	health care reform	2
+health policy	health crisis	2
+health policy	health economics	2
+health policy	health equity	2
+health policy	health promotion	2
+health policy	health law	2
+health policy	inverse benefit law	2
+health policy	inverse care law	2
+health policy	journal of public health policy	2
+health policy	medical law	2
+health policy	national health insurance	2
+health policy	patient safety	2
+health policy	pharmaceutical policy	2
+health policy	policy	2
+health policy	public health law	2
+health policy	quaternary prevention	2
+health policy	two-tier health care	2
+health policy	unnecessary health care	2
+health policy	world health report	2
+health professionals	community health center	2
+health professionals	chronic care management	2
+health professionals	electronic superbill	2
+health professionals	geriatric care management	2
+health professionals	health human resources	2
+health equity	center for minority health	2
+health equity	drift hypothesis	2
+health equity	eurohealthnet	2
+health equity	environmental justice	2
+health equity	environmental racism	2
+health equity	food justice movement	2
+health equity	global task force on expanded access to cancer care and control in developing countries	2
+health equity	health-related embarrassment	2
+health equity	health disparities center	2
+health equity	health inequality in the united kingdom	2
+health equity	healthcare and the lgbt community	2
+health equity	hopkins center for health disparities solutions	2
+health equity	immigrant paradox	2
+health equity	inequality in disease	2
+health equity	joint action health equity in europe	2
+health equity	mental health inequality	2
+health equity	population health	2
+health equity	public health	2
+health equity	publicly funded health care	2
+health equity	single-payer healthcare	2
+health equity	social determinants of health	2
+health equity	social determinants of health in poverty	2
+health equity	unnatural causes: is inequality making us sick?	2
+health equity	weathering hypothesis	2
+healthcare system	acronyms in healthcare	2
+healthcare system	catholic church and health care	2
+healthcare system	community health	2
+healthcare system	comparison of the health care systems in canada and the united states	2
+healthcare system	consumer-driven health care	2
+healthcare system	cultural competence in health care	2
+healthcare system	global health	2
+healthcare system	genetic testing	2
+healthcare system	health administration	2
+healthcare system	health care	2
+healthcare system	health care provider	2
+healthcare system	health care reform	2
+healthcare system	health crisis	2
+healthcare system	health economics	2
+healthcare system	health human resources	2
+healthcare system	health insurance	2
+healthcare system	health policy	2
+healthcare system	health services research	2
+healthcare system	healthy city	2
+healthcare system	hospital network	2
+healthcare system	medicine	2
+healthcare system	national health insurance	2
+healthcare system	occupational safety and health	2
+healthcare system	philosophy of healthcare	2
+healthcare system	primary care	2
+healthcare system	primary health care	2
+healthcare system	public health	2
+healthcare system	publicly funded health care	2
+healthcare system	single-payer health care	2
+healthcare system	social determinants of health	2
+healthcare system	socialized medicine	2
+healthcare system	timeline of global health	2
+healthcare system	two-tier health care	2
+healthcare system	universal health care	2
+social determinants of health in poverty	diseases of poverty	3
+social determinants of health in poverty	food justice movement	3
+social determinants of health in poverty	socioeconomic status and mental health	3
+social determinants of health in poverty	transit desert	3
+social determinants of health in poverty	transport divide	3
+weathering hypothesis	adverse childhood experiences	3
+weathering hypothesis	gender disparities in health	3
+weathering hypothesis	health equity	3
+weathering hypothesis	healthcare and the lgbt community	3
+weathering hypothesis	inequality in disease	3
+weathering hypothesis	john henryism	3
+weathering hypothesis	minority stress	3
+weathering hypothesis	post traumatic slave syndrome	3
+weathering hypothesis	race and health	3
+weathering hypothesis	race and health in the united states	3
+weathering hypothesis	seasoning (slavery)	3
+weathering hypothesis	slave health on plantations in the united states	3
+weathering hypothesis	slavery hypertension hypothesis	3
+social determinants of health	adverse childhood experiences study	3
+social determinants of health	causal inference	3
+social determinants of health	center for minority health	3
+social determinants of health	diseases of affluence	3
+social determinants of health	diseases of poverty	3
+social determinants of health	epidemiology	3
+social determinants of health	eurohealthnet	3
+social determinants of health	etiology	3
+social determinants of health	exercise	3
+social determinants of health	global health	3
+social determinants of health	health equity	3
+social determinants of health	behavior	3
+social determinants of health	health literacy	3
+social determinants of health	healthy people	3
+social determinants of health	inequality in disease	3
+social determinants of health	hopkins center for health disparities solutions	3
+social determinants of health	medical anthropology	3
+social determinants of health	medical sociology	3
+social determinants of health	molecular pathological epidemiology	3
+social determinants of health	pathogenesis	3
+social determinants of health	pathology	3
+social determinants of health	population health	3
+social determinants of health	population health forum	3
+social determinants of health	race and health	3
+social determinants of health	social determinants of health in mexico	3
+social determinants of health	social determinants of obesity	3
+social determinants of health	social epidemiology	3
+social determinants of health	unnatural causes: is inequality making us sick?	3
+social determinants of health	whitehall study	3
+social determinants of health	michael marmot	3
+social determinants of health	richard g. wilkinson	3
+social determinants of health	dennis raphael	3
+social determinants of health	slavery hypertension hypothesis	3
+social determinants of health	weathering hypothesis	3
+two-tier health care	health in trinidad and tobago	3
+two-tier health care	canadian and american health care systems compared	3
+two-tier health care	health care compared	3
+two-tier health care	universal health care	3
+single-payer health care	all-payer rate setting	3
+single-payer health care	health care reform debate in the united states	3
+single-payer health care	health system	3
+single-payer health care	national health insurance	3
+single-payer health care	public health insurance option	3
+single-payer health care	medical deserts in the united states	3
+primary care	anatomical therapeutic chemical classification system	3
+primary care	classification of pharmaco-therapeutic referrals	3
+primary care	direct primary care	3
+primary care	international classification of diseases	3
+primary care	medical classification	3
+primary care	nursing shortage	3
+primary care	physician shortage	3
+primary care	primary care ethics	3
+primary care	primary care service area	3
+primary care	primary health organisation	3
+philosophy of healthcare	ethical problems using children in clinical trials	3
+philosophy of healthcare	ethics of circumcision	3
+philosophy of healthcare	catholic church and health care	3
+philosophy of healthcare	philosophy of medicine	3
+hospital network	health system	3
+hospital network	history of hospitals	3
+healthy city	15 minute city	3
+healthy city	co-benefits of climate change mitigation	3
+healthy city	health promotion	3
+healthy city	alliance for healthy cities	3
+healthy city	primary health care	3
+healthy city	health for all	3
+healthy city	public health	3
+healthy city	social influences on fitness behavior	3
+health services research	health economics	3
+health services research	health human resources	3
+health services research	health insurance	3
+health services research	health policy	3
+health services research	managed care	3
+health services research	nursing	3
+health services research	pharmacy practice research	3
+health services research	priority-setting in global health	3
+health services research	public health	3
+health services research	bmc health services research	3
+health services research	health affairs	3
+health services research	health services research journal	3
+health services research	medical care research and review	3
+health services research	world health report 2012	3
+health economics	health administration	3
+health economics	health consumerism	3
+health economics	health crisis	3
+health economics	health equity	3
+health economics	health insurance	3
+health economics	health policy	3
+health economics	medical debt	3
+health economics	pharmacoeconomics	3
+health economics	pharmacoepidemiology	3
+health economics	philosophy of healthcare	3
+health economics	prescription costs	3
+health economics	priority-setting in global health	3
+health economics	public health	3
+health economics	journal of health care for the poor and underserved	3
+health economics	journal of health economics	3
+health economics	review of economics of the household	3
+health human resources	health care providers	3
+health human resources	health systems	3
+health human resources	hrhis	3
+health human resources	human resources for health	3
+health human resources	interprofessional education	3
+health human resources	nhs national workforce projects	3
+health human resources	physician supply	3
+health human resources	nursing shortage	3
+health insurance	ansi 834 enrollment implementation format	3
+health insurance	economic capital	3
+health insurance	health administration	3
+health insurance	health advocate	3
+health insurance	health system	3
+health insurance	health care reform	3
+health insurance	health crisis	3
+health insurance	health economics	3
+health insurance	health insurance marketplace	3
+health insurance	health insurance mandate	3
+health insurance	hospital accreditation	3
+health insurance	international healthcare accreditation	3
+health insurance	nyman's model	3
+health insurance	philosophy of healthcare	3
+health insurance	prescription analytics	3
+health insurance	protectseniors.org	3
+health insurance	public health	3
+health insurance	quality-adjusted life year	3
+health insurance	self-funded health care	3
+health insurance	single-payer healthcare	3
+health insurance	social security	3
+health insurance	welfare	3
+health insurance	the hospital uninsured patient discount act (illinois)	3
+health insurance	universal declaration of human rights	3
+health crisis	crisis theory	3
+health crisis	disease mongering	3
+health crisis	health administration	3
+health crisis	health care	3
+health crisis	health policy	3
+health crisis	medicalization	3
+health crisis	primary health care	3
+health crisis	routine health outcomes measurement	3
+health crisis	thalidomide	3
+health care reform	health care	3
+health care reform	healthcare system	3
+health care reform	health care provider	3
+health care reform	health center	3
+health care reform	clinic	3
+health care reform	hospital	3
+health care reform	health care politics	3
+health care reform	medical education	3
+health care reform	medicine	3
+health care reform	doctor's visit	3
+health care reform	nursing	3
+health care reform	philosophy of healthcare	3
+health care reform	universal health care	3
+health care reform	social service	3
+health care reform	social determinants of health	3
+health care reform	family medicine	3
+health care reform	preventive medicine	3
+health care reform	social medicine	3
+health care reform	health policy	3
+health care reform	health insurance	3
+health care reform	insurance	3
+health care reform	social health insurance	3
+health care reform	community health service	3
+health care reform	direct primary care	3
+health care reform	school health services	3
+health care reform	military medicine	3
+health care reform	occupational safety and health	3
+health care reform	unnecessary health care	3
+health care reform	health care compared	3
+health care reform	health care in the united states	3
+health care reform	health care reform in the united states	3
+health care reform	healthcare-now!	3
+health care reform	health-care reform in china	3
+health care reform	history of the national health service	3
+health care reform	history of the national health service (england)	3
+health care reform	journal of health care for the poor and underserved	3
+health care reform	kaiser family foundation	3
+health care reform	massachusetts health care reform	3
+health care reform	matthew effect	3
+health care reform	medicare rights center	3
+health care reform	national health insurance	3
+health care reform	national physicians alliance	3
+health care reform	progressive democrats of america	3
+health care reform	puerto rico health reform	3
+health care reform	shoutamerica	3
+health care reform	single-payer health care	3
+health care reform	united states national health care act	3
+health care reform	universal health care foundation of connecticut	3
+genetic testing	biobank	3
+genetic testing	dna profiling	3
+genetic testing	designer baby	3
+genetic testing	genographic project	3
+genetic testing	personalized medicine	3
+genetic testing	elective genetic and genomic testing	3
+genetic testing	eugenics	3
+genetic testing	full genome sequencing	3
+genetic testing	exome sequencing	3
+genetic testing	genetic counseling	3
+genetic testing	non-paternity event	3
+genetic testing	new eugenics	3
+health care	healthcare system	3
+health care	health professionals	3
+health care	health equity	3
+health care	health policy	3
+health care	tobacco politics	3
+health care	universal health care	3
+health administration	master of health administration	3
+health administration	nosokinetics	3
+cultural competence in health care	community-based participatory research	3
+cultural competence in health care	culturally relevant teaching	3
+cultural competence in health care	ethnocentrism	3
+cultural competence in health care	global health	3
+cultural competence in health care	health status of asian americans	3
+cultural competence in health care	health system	3
+cultural competence in health care	intercultural competence	3
+cultural competence in health care	medical ethics	3
+cultural competence in health care	purnell model for cultural competence	3
+community health	community health agent	3
+community health	community mental health service	3
+community health	online health communities	3
+community health	prison reform	3
+community health	university of community health, magway	3
+consumer-driven health care	consumers for health care choices	3
+consumer-driven health care	flexible spending account	3
+consumer-driven health care	health care systems	3
+consumer-driven health care	health economics	3
+catholic church and health care	catholic health association of the united states	3
+catholic church and health care	catholic medical association	3
+catholic church and health care	chinese medicine	3
+catholic church and health care	islamic medicine	3
+catholic church and health care	philosophy of healthcare	3
+catholic church and health care	rose mass	3
+catholic church and health care	white mass	3
+comparison of the health care systems in canada and the united states	tommy douglas	3
+comparison of the health care systems in canada and the united states	health care and education reconciliation act of 2010	3
+comparison of the health care systems in canada and the united states	health system	3
+comparison of the health care systems in canada and the united states	health care in canada	3
+comparison of the health care systems in canada and the united states	health care in the united states	3
+comparison of the health care systems in canada and the united states	healthcare in the european union	3
+comparison of the health care systems in canada and the united states	patient protection and affordable care act	3
+comparison of the health care systems in canada and the united states	universal health care	3
+acronyms in healthcare	clinical trial naming conventions	3
+population health	auxology	3
+population health	community health	3
+population health	economic inequality	3
+population health	health disparities	3
+population health	health impact assessment	3
+population health	inequality in disease	3
+population health	population health forum	3
+population health	social determinants of health	3
+population health	pophealth	3
+mental health inequality	acculturation	3
+mental health inequality	immigrant paradox	3
+inequality in disease	health equity	3
+inequality in disease	social determinants of health	3
+inequality in disease	social determinants of health in poverty	3
+inequality in disease	social determinants of obesity	3
+inequality in disease	social epidemiology	3
+inequality in disease	unnatural causes: is inequality making us sick?	3
+inequality in disease	hygiene hypothesis	3
+inequality in disease	diseases of affluence	3
+inequality in disease	diseases of poverty	3
+inequality in disease	public health	3
+inequality in disease	typhus	3
+inequality in disease	weathering hypothesis	3
+immigrant paradox	acculturation	3
+immigrant paradox	americanization (immigration)	3
+immigrant paradox	health equity	3
+immigrant paradox	hispanic paradox	3
+immigrant paradox	mental health inequality	3
+immigrant paradox	minority stress	3
+healthcare and the lgbt community	lgbt healthcare in the united states veterans health administration	3
+healthcare and the lgbt community	health equity	3
+healthcare and the lgbt community	healthcare inequality	3
+healthcare and the lgbt community	lgbt people in prison	3
+healthcare and the lgbt community	minority stress	3
+healthcare and the lgbt community	suicide among lgbt youth	3
+healthcare and the lgbt community	steven epstein (academic)	3
+healthcare and the lgbt community	tamsin wilton	3
+health-related embarrassment	self-esteem	3
+health-related embarrassment	social stigma	3
+food justice movement	food security	3
+food justice movement	sustainable agriculture	3
+food justice movement	slow food	3
+food justice movement	food sovereignty	3
+food justice movement	fair trade	3
+food justice movement	fair food program	3
+food justice movement	agroecology	3
+food justice movement	right to food	3
+environmental racism	pollution haven hypothesis	3
+environmental racism	climate change and poverty	3
+environmental racism	electronic waste	3
+environmental racism	pollution in the united states	3
+environmental racism	environmental dumping	3
+environmental racism	environmental justice	3
+environmental racism	antiziganism	3
+environmental racism	fenceline community	3
+environmental racism	gentrification	3
+environmental racism	global environmental inequality	3
+environmental racism	health inequality and environmental influence	3
+environmental racism	intergenerational equity	3
+environmental racism	internalized racism	3
+environmental racism	intersectionality	3
+environmental racism	netherlands fallacy	3
+environmental racism	nimby	3
+environmental justice	alton, rhode island	3
+environmental justice	climate justice	3
+environmental justice	climate resilience	3
+environmental justice	degrowth	3
+environmental justice	environmental contract	3
+environmental justice	environmental criminology	3
+environmental justice	environmental history	3
+environmental justice	environmental justice foundation	3
+environmental justice	environmental justice and coal mining in appalachia	3
+environmental justice	environmental law	3
+environmental justice	environmental racism	3
+environmental justice	environmental sociology	3
+environmental justice	equality impact assessment	3
+environmental justice	extinction debt	3
+environmental justice	fenceline community	3
+environmental justice	health equity	3
+environmental justice	hunters point, san francisco, california	3
+environmental justice	resource justice	3
+environmental justice	rural action	3
+environmental justice	sustainable development	3
+environmental justice	toxic 100	3
+geriatric care management	elderly care	3
+geriatric care management	geriatric nursing	3
+geriatric care management	health advocacy	3
+geriatric care management	long term care	3
+geriatric care management	patient advocacy	3
+geriatric care management	transgenerational design	3
+eurohealthnet	social determinants of health	3
+eurohealthnet	health promotion	3
+eurohealthnet	health equity	3
+eurohealthnet	sustainable development	3
+chronic care management	chronic care	3
+chronic care management	disaboom	3
+chronic care management	dmaa: the care continuum alliance	3
+chronic care management	medical home	3
+chronic care management	non-communicable disease	3
+community health center	ambulatory care	3
+community health center	clinic	3
+community health center	community health	3
+community health center	doctor's visit	3
+community health center	health administration	3
+community health center	health insurance	3
+community health center	health professional	3
+community health center	low-threshold treatment programs	3
+community health center	social work	3
+unnecessary health care	medicare fraud	3
+unnecessary health care	moral hazard	3
+unnecessary health care	antibiotic misuse	3
+unnecessary health care	choosing wisely	3
+unnecessary health care	overmedicalization	3
+unnecessary health care	overdiagnosis	3
+world health report	world health day	3
+world health report	world report on disability	3
+world health report	bulletin of the world health organization	3
+world health report	eastern mediterranean health journal	3
+world health report	human resources for health	3
+world health report	u-report	3
+world health report	pan american journal of public health	3
+world health report	who south-east asia journal of public health	3
+quaternary prevention	bioethics	3
+quaternary prevention	cascade effect	3
+quaternary prevention	defensive medicine	3
+quaternary prevention	iatrogenesis	3
+quaternary prevention	medical ethics	3
+quaternary prevention	medicalization	3
+quaternary prevention	medicine	3
+quaternary prevention	patient safety	3
+quaternary prevention	preventive medicine	3
+public health law	health law	3
+public health law	public health act 1875	3
+public health law	title 42 of the code of federal regulations	3
+policy	blueprint	3
+policy	distributive tendency	3
+policy	iron triangle (us politics)	3
+policy	mandate (politics)	3
+policy	overton window	3
+policy	pattern language	3
+policy	policy alienation	3
+policy	policy analysis	3
+policy	policy governance	3
+policy	policy studies	3
+policy	political science	3
+policy	program evaluation	3
+policy	public administration	3
+policy	public health	3
+policy	public policy (law)	3
+policy	public policy schools	3
+policy	public services	3
+policy	social contract	3
+policy	social welfare	3
+policy	social work	3
+policy	think tank	3
+pharmaceutical policy	international conference on harmonisation of technical requirements for registration of pharmaceuticals for human use	3
+pharmaceutical policy	medical cannabis	3
+pharmaceutical policy	national pharmaceuticals policy	3
+pharmaceutical policy	vaccination policy	3
+medical law	abortion law	3
+medical law	assault (tort)	3
+medical law	battery (tort)	3
+medical law	bioethics	3
+medical law	competence (law)	3
+medical law	compulsory sterilization	3
+medical law	conjoined twins	3
+medical law	consent (criminal law)	3
+medical law	convention for the protection of human rights and dignity of the human being with regard to the application of biology and medicine	3
+medical law	euthanasia	3
+medical law	freedom of information	3
+medical law	health law	3
+medical law	inviolability	3
+medical law	involuntary commitment	3
+medical law	involuntary treatment	3
+medical law	medical ethics	3
+medical law	medical malpractice	3
+medical law	medical record	3
+medical law	privacy law	3
+medical law	quality of life (healthcare)	3
+medical law	reproductive rights	3
+medical law	reproductive technology	3
+medical law	world association for medical law	3
+inverse care law	health policy	3
+inverse care law	inverse benefit law	3
+inverse care law	patient safety	3
+inverse care law	public health	3
+health law	bioethics	3
+health law	health policy	3
+health law	health promotion	3
+health law	medical law	3
+health law	world association for medical law	3
+health promotion	breastfeeding promotion	3
+health promotion	health 21	3
+health promotion	health for all	3
+health promotion	health marketing	3
+health promotion	health policy	3
+health promotion	health promoting hospitals	3
+health promotion	health promotion in higher education	3
+health promotion	preventive healthcare	3
+disease mongering	inverse benefit law	3
+disease mongering	medicalization	3
+disease mongering	quaternary prevention	3
+disease mongering	schooliosis	3
+disease mongering	overdiagnosis	3

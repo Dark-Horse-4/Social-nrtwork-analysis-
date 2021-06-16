@@ -1,0 +1,15 @@
+FROM,TO,WEIGHT,BANK_TRANSFER,PROPERTY_BUY_SELL,GOLD_BUY_SELL,EQUITY_BUY_SELL,OTHERS_BUY_SELL,RELATIVE
+Harry,John,2,1,1,0,0,0,0
+Ram,Shiv,9,1,1,1,1,1,1
+Shiv,Ford,5,1,1,1,1,1,0
+Ford,Harry,3,1,1,0,0,0,1
+Shayam,Lee,4,1,0,1,1,1,0
+DK,Shayam,2,0,1,1,0,0,0
+PK,DK,6,1,1,1,1,1,1
+DK,Harry,7,1,1,1,1,1,1
+Shiv,Shayam,7,1,1,1,1,1,1
+PK,John,3,0,1,1,1,0,0
+John,CK,4,1,1,1,1,0,0
+John,Lee,6,1,1,1,1,1,1
+PK,CK,4,0,1,1,1,1,0
+DK,CK,7,1,1,1,1,1,1
